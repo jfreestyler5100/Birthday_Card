@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="happy_birthday_jeffrey">Happy Birthday Jeffrey</string>
+    <string name="you_are_years_old">You are years old</string>
+    <string name="gemstone">GemStone</string>
+    <string name="zodiacDisplay">ZodiacDisplay</string>
+    <string name="go_back">Go Back</string>
+    <string name="birthdayImage">BirthdayImage</string>
+    <string name="enter_date_of_birth_below">Enter Your Date Of Birth Below</string>
+</resources>
